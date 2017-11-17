@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
 
-ITHACATEST WEAB-PAGE
+#ITHACATEST WEAB-PAGE
+
+**ITHACATEST WEAB-PAGE**
 
 You can use the [editor on GitHub](https://github.com/ithacatest/ithaca/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
