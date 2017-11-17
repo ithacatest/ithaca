@@ -4,9 +4,9 @@
 
 **ITHACATEST WEAB-PAGE**
 
--ithaca
--web
--page
+- ithaca
+- web
+- page
 
 _ITHACA WEB-PAGE_
 
